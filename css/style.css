@@ -1,0 +1,23 @@
+.navbar {
+    height: 56px;
+    align-items: center;
+    background-color: #343A40;
+}
+
+.navbar-brend {
+    font-size: 20px;
+    line-height: 23px;
+    padding: .5rem 1rem;
+    padding-left: 0px;
+    color: white;
+}
+
+.navbar a:hover, a:focus {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.nav-link {
+    padding: .25rem .5rem;
+    color: white;
+}
